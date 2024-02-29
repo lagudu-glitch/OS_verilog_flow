@@ -1,7 +1,6 @@
 ###########################################################################################
-# STARS 2023 General Makefile
+# Verilog General Makefile
 # 
-# Set tab spacing to 2 spaces per tab for best viewing results
 ###########################################################################################
 
 ##############################################################################
@@ -12,7 +11,7 @@
 
 # Specify the name of the top level file (do not include the source folder in the name)
 # NOTE: YOU WILL NEED TO SET THIS VARIABLE'S VALUE WHEN WORKING WITH HEIRARCHICAL DESIGNS
-TOP_FILE         := fsm.sv 
+TOP_FILE         :=  
 
 # List internal component/block files here (separate the filenames with spaces)
 # NOTE: YOU WILL NEED TO SET THIS VARIABLE'S VALUE WHEN WORKING WITH HEIRARCHICAL DESIGNS
